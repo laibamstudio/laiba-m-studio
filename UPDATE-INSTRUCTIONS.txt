@@ -1,0 +1,13 @@
+LAIBA M STUDIO — WEBSITE POLISH UPDATE
+
+This update removes the extra LM text beside the LAIBA M STUDIO wordmark, improves mobile navigation and accessibility, refines spacing and service cards, and updates the service-worker cache so browsers can fetch the new version.
+
+HOW TO UPDATE YOUR LIVE GITHUB PAGES SITE
+1. Open https://github.com/laibamstudio/laiba-m-studio
+2. Click Add file > Upload files.
+3. Extract this ZIP on your computer first. Upload/drag the updated files from this folder into the repository.
+4. If GitHub asks whether to replace existing files, confirm replacement for index.html, styles.css, app.js, and sw.js. Upload the other files too if prompted; keep laiba-portrait.jpg and manifest.json in the repository.
+5. Scroll down and click Commit changes.
+6. Wait a few minutes, then open https://laibamstudio.github.io/laiba-m-studio/ and refresh. On a phone, close and reopen the page if the old version is cached.
+
+Important: This is a static installable website. The enquiry form opens a draft email; it does not automatically deliver or store bookings.
